@@ -5,6 +5,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FisanovE&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FisanovE&theme=tokyonight)
 
-Контакты: 
-Телеграм: @FisanovE 
-LinkedIn: https://www.linkedin.com/in/fisanov-e/
+Телеграм: @FisanovE      LinkedIn: https://www.linkedin.com/in/fisanov-e/
